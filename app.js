@@ -5,7 +5,7 @@ myButton.onclick = loadAJAX;
 
 // Store the API information for use later
 var uri = {
-  protocol:"http://",
+  protocol:"https://",
   host:"maps.googleapis.com/",
   resourceRoot:"maps/api/geocode/json?address=",
   address:"",
